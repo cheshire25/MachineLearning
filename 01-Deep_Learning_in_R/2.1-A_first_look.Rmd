@@ -21,6 +21,7 @@ jupyter:
 
 ---
 
+Changed by me.
 This notebook contains the code samples found in Chapter 2, Section 1 of [Deep Learning with R](https://www.manning.com/books/deep-learning-with-r). Note that the original text features far more content, in particular further explanations and figures: in this notebook, you will only find source code and related comments.
 
 ---
